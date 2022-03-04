@@ -57,7 +57,7 @@
 通过 Serverless Devs 开发者工具，您只需要几步，就可以体验 Serverless 架构，带来的降本提效的技术红利。
 
 本案例应用是一个非常简单的 Hello World 案例，部署完成之后，您可以看到系统返回给您的案例地址，例如：
-
+3
 ![图片alt](https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1644567419851_20220211081700122623.png)
 
 此时，打开案例地址，就可以看到测试的应用详情：
